@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Android Thing</title>
-	<link rel="stylesheet" href="androidtest993.stylesheet.css">
+	<link rel="stylesheet" href="https://raw.githubusercontent.com/rohanweigel/androidtest993/master/stylesheet.css">
 </head>
 <body>
 <div class="android">
